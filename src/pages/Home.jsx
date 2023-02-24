@@ -4,13 +4,10 @@ function Home() {
   
   return (
     <div className='home'>
-        <h1>Ggsdagsddgs</h1>
-        
+        <h1>Inicio</h1>
+        {/*Carrosel*/ }
     </div>
   );
 }
-
-
-
 
 export default Home;
